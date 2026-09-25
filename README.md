@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32657574/README.md)
+
 # Hi, I'm Chia 👋
 
 Third-year Computer Science & Software Engineering student at Maynooth University, building full-stack projects and looking for a placement/internship where I can keep learning and contribute to a real team.
